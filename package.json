@@ -17,7 +17,7 @@
     "deploy": "yarn run clean & yarn run build & gh-pages -d public"
   },
   "dependencies": {
-    "gatsby": "^3.4.1",
+    "gatsby": "^3.15.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
